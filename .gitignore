@@ -1,0 +1,5 @@
+# Music downloads folder
+music_downloads/
+
+# Virtual environment
+.venv/
