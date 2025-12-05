@@ -1,6 +1,9 @@
 {
     "recommendations": [
         "ms-python.python",
-        "ms-python.black-formatter"
+        "ms-python.pylint",
+        "ms-python.black-formatter",
+        "esbenp.prettier-vscode",
+        "njpwerner.autodocstring"
     ]
 }

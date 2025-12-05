@@ -2,4 +2,4 @@
 music_downloads/
 
 # Virtual environment
-.venv/
+venv/

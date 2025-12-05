@@ -5,11 +5,11 @@
 1. Clone this repository
 2. Create a virtual environment (venv):
 ```bash
-python -m venv .venv
+python -m venv venv
 ```
 3. Activate the virtual environment (Git Bash):
 ```bash
-source .venv/Scripts/activate
+source venv/Scripts/activate
 ```
 4. Install dependencies: 
 ```bash
